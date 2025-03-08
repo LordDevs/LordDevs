@@ -7,7 +7,7 @@ Academic projects for learning during the web development course.
 🎓 Studying: Computer Science at Griffith College Cork.
 🎓 Courses: HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OOP, MySQL, jQuery, MVC, APIs, IONIC, Python, Lua.
 📧 Contact me at: michel_wolf@hotmail.com
-😀 Pronouns: He/Him.
+
 
 ## Technologies I Study and Use
 
@@ -47,3 +47,8 @@ Academic projects for learning during the web development course.
   <a href="https://www.linkedin.com/in/michel-souza-lopes-1ba37b1a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/LordDevs" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
+## 💖 Support Me
+
+If you find my projects useful, consider supporting me to help me keep creating and maintaining them!
+
+[![Sponsor](https://img.shields.io/badge/-Sponsor-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/LordDevs)
