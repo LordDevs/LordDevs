@@ -39,14 +39,13 @@ These are academic projects developed as part of my **Computer Science degree at
 
 ## 📊 GitHub Stats
 
-These stats represent my current public contributions. Most of my university work is done locally, but I aim to bring more of that to GitHub soon!
-
 <div align="center">
   <a href="https://github.com/LordDevs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordDevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordDevs&layout=compact&langs_count=10&theme=dark&hide=html,css,scss"/>
   </a>
 </div>
+
 
 
 ## 💬 Let's Connect
