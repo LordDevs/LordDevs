@@ -16,11 +16,11 @@ These are academic projects developed as part of my **Computer Science degree at
 - ✅ **Household Appliance Inventory System**  
   Full CRUD system using PHP + MySQL (no frameworks), including user validation, relational database, Bootstrap UI and server-side protection against SQL injection.
 
-- 🔨 **Weather Forecast Chatbot** *(In Progress)*  
+- 🔨 **Weather Forecast Chatbot** *(Completed)*  
   Dynamic chatbot with WebSocket integration, real-time weather API, and frontend in vanilla JS + custom CSS (glassmorphism style).
 
-- ⌛ **Coming Soon:**  
-  A financial simulator for mortgage calculations in Ireland, with real data integration and responsive charts.
+- ⌛🔨 **SmartRoster – Management Project:**  
+  New project about magagement schedule in progress.
 
 
 
