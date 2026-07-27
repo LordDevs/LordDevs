@@ -20,8 +20,21 @@ I am a Computer Science student focused on building clean, responsive, and pract
 
 - Currently studying Computer Science at Griffith College Cork
 - Focused on front-end development, web systems, and UI architecture
-- Interested in React, Next.js, TypeScript, Laravel, and scalable application design
+- Interested in React, Next.js, TypeScript, Laravel, Java, and scalable application design
 - Based in Ireland
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Chronos-200K**](https://github.com/LordDevs/Chronos-200K) | Deep-time colonial AI simulator — exoplanet logistics, biomechanical enhancements (Astartes Kit), and human speciation over 200,000 years | Java · AIML · NASA TAP · HTML/CSS/JS |
+| [**personal-portfolio-website**](https://github.com/LordDevs/personal-portfolio-website) | Personal portfolio site (in development) | React · Vite · TypeScript |
+| [**SmartRoster**](https://github.com/LordDevs/SmartRoster-Management-Project) | Admin dashboard for roster / workforce management | React · design system |
+| [**LEARN**](https://github.com/LordDevs/LEARN) | Academic monorepo (HTML, Bootstrap, JavaScript). Chatbot migrated → Chronos-200K | HTML · CSS · JS |
+
+> **Chronos-200K** — LordDevs team: Michel (Architect), Emmanuel (Core), Celso (Frontend). Hybrid AIML persona + Java science engine, no generative API required.
 
 ---
 
@@ -34,6 +47,7 @@ I am a Computer Science student focused on building clean, responsive, and pract
     <img alt="TypeScript" title="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="React" title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Next.js" title="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img alt="Java" title="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img alt="Bootstrap" title="Bootstrap" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img alt="Tailwind CSS" title="Tailwind CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img alt="Sass" title="Sass" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
