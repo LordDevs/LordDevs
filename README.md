@@ -29,7 +29,7 @@ I am a Computer Science student focused on building clean, responsive, and pract
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-|----------Main Project---------|
+|---------|Main Project-|-------|
 | [**SmartRoster**](https://github.com/LordDevs/SmartRoster-Management-Project) | Admin dashboard for roster / workforce management | React · design system |
 |---------|-------------|-------|
 |----------Sub project----------|
