@@ -29,9 +29,12 @@ I am a Computer Science student focused on building clean, responsive, and pract
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+|----------Main Project---------|
+| [**SmartRoster**](https://github.com/LordDevs/SmartRoster-Management-Project) | Admin dashboard for roster / workforce management | React · design system |
+|---------|-------------|-------|
+|----------Sub project----------|
 | [**Chronos-200K**](https://github.com/LordDevs/Chronos-200K) | Deep-time colonial AI simulator — exoplanet logistics, biomechanical enhancements (Astartes Kit), and human speciation over 200,000 years | Java · AIML · NASA TAP · HTML/CSS/JS |
 | [**personal-portfolio-website**](https://github.com/LordDevs/personal-portfolio-website) | Personal portfolio site (in development) | React · Vite · TypeScript |
-| [**SmartRoster**](https://github.com/LordDevs/SmartRoster-Management-Project) | Admin dashboard for roster / workforce management | React · design system |
 | [**LEARN**](https://github.com/LordDevs/LEARN) | Academic monorepo (HTML, Bootstrap, JavaScript). Chatbot migrated → Chronos-200K | HTML · CSS · JS |
 
 > **Chronos-200K** — LordDevs team: Michel (Architect), Emmanuel (Core), Celso (Frontend). Hybrid AIML persona + Java science engine, no generative API required.
